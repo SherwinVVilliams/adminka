@@ -1,0 +1,27 @@
+{
+  "name": "aSendForm",
+  "homepage": "https://github.com/iialexeyii/aSendForm",
+  "authors": [
+    "alexeyh <aleks300395@mail.ru>"
+  ],
+  "description": "It's plugin for organization and sending form from some page",
+  "main": "assets/jquery.send.form.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1a90ab310d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1a90ab310dfcc101ed2af0939d4b8a8dc76f4f25"
+  },
+  "_source": "https://github.com/iialexeyii/aSendForm.git",
+  "_target": "*",
+  "_originalSource": "aSendForm",
+  "_direct": true
+}
